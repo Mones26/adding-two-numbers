@@ -3,4 +3,4 @@ input2 = input("Enter the second number: ")
 
 add = int(input1) + int(input2)
 
-print("The sum is:", add)
+print("The sum is:", add) 
